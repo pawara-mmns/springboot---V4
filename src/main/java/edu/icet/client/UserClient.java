@@ -13,6 +13,6 @@ public interface UserClient {
     List <User> getUsers();
 
     @GetExchange("/{id}")
-    User getUserById(@PathVariable int id);
+    User getUserById(@PathVariable("id") int id);
 
 }
