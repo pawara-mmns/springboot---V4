@@ -22,6 +22,7 @@ public class HttpClientConfig {
 
         return factory.createClient(UserClient.class);
 
+
     }
 
 }
