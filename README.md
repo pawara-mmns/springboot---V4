@@ -528,7 +528,7 @@ This is a demonstration project for educational purposes.
 
 ## 👨‍💻 Author
 
-**Institute of Computer Engineering and Technology (ICET)**
+**Pawara Samarawickrama**
 
 ---
 
