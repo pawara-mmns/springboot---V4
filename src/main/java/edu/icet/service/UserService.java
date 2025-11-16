@@ -21,4 +21,5 @@ public class UserService {
     public User getUserById(int id) {
         return userClient.getUserById(id);
     }
+
 }
